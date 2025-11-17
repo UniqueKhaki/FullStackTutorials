@@ -1,0 +1,49 @@
+*{
+    background-color: #F9F8F6;
+}
+
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    color: #313647;
+}
+
+h2{
+    color: #1A3D64;
+}
+
+nav ul {
+    text-align: center;
+    padding: 10px;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+    font-family: sans-serif;
+}
+
+li{
+    display: inline;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+
+}
